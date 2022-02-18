@@ -1,0 +1,122 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+section {
+    width: 50%;
+    margin: 0 auto;
+
+    
+}
+
+.modal {
+    padding: 50px;
+    border: 1px solid #04bbce;
+    margin: 50px;
+
+}
+.modal2{
+    padding: 20px;
+    border: 1px solid #04bbce;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.modal2 p{
+    color: #333;
+    margin-right: 10px;
+}
+
+.modal2 a{
+    text-decoration: none;
+    color: #04bbce;
+    font-weight: 600;
+}
+
+
+.modal h1{
+    margin-bottom: 40px;
+    color: #04bbce;
+}
+.modal h4{
+    margin: 20px 0;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    color: #333;
+   
+}
+.modal input{
+    width: 100%;
+    height: 40px;
+    padding: 0 14px;
+    border: 1px solid #DBDBDB;
+    font-size: 14px;
+}
+
+.modal .accept{
+    width: 15px;
+    height: 15px;
+    margin: 25px 10px 20px 0;
+
+
+
+}
+label{
+    font-size: 15px;
+}
+
+button {
+    margin-top: 30px;
+    width: 100%;
+    padding: 15px;
+    font-size: 18px;
+    background-color: #04bbce;
+    color: #fff;
+    border: 2px solid #04bbce;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+.enter {
+    margin: 50px;
+    padding: 50px;
+    border: 1px solid #04bbce;
+    display: block;
+}
+
+.enter h3{
+    margin-bottom: 20px;
+    color: #04bbce;
+    font-weight: 600;
+}
+
+.enter h4{
+    margin: 20px 0;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 16px;
+    color: #333;
+   
+}
+
+.enter input{
+    width: 100%;
+    height: 40px;
+    padding: 0 14px;
+    border: 1px solid #DBDBDB;
+    font-size: 14px;
+}
+
+.enter button{
+    margin-top: 40px;
+    border-radius: 50px  ;
+}
